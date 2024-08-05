@@ -1,6 +1,6 @@
 class FishRunner{
 	public static void main(String[]args){
-Fish fish=new Fish("angel",150);
+Fish fish=new Fish("angal",150);
 Fish fish1=new Fish("pamplate",200);
 Fish fish2=new Fish("bagudhe",250);
 Fish fish3=new Fish("goldfish",70);

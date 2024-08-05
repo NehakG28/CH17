@@ -6,6 +6,12 @@ SimCard(String compannyname,String daysofplan,double priceofplan){
 name=compannyname;
 days=daysofplan;
 price=priceofplan;
+
+
+public void num(){
+	
+}
+
 }
 	
 	}
